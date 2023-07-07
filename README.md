@@ -11,20 +11,28 @@ To use the chat app, follow the steps below:
 
 Clone the repository to your local machine using the following command:
 bash
-Copy code
+
 git clone <repository_url>
+
 Install Rust and Cargo on your machine if you haven't already. You can download them from the official Rust website: https://www.rust-lang.org/tools/install.
+
 Navigate to the project directory in your terminal.
+
 Install the required dependencies by running the following command:
-Copy code
-cargo build
+- cargo build
+
 Once the dependencies are installed, start the application by running:
-<chat-ap>
-Copy code
-cargo run
+
+- cd cdat-app
+- cargo run
+
 Open two tab windows in your web browser.
+
 In each tab, enter the URL http://localhost:8000 to access the chat app.
 Start chatting with other users in real-time!
+
+
+
 Contributing
 
 If you'd like to contribute to this project, you can follow these steps:
