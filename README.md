@@ -23,7 +23,7 @@ Install the required dependencies by running the following command:
 
 Once the dependencies are installed, start the application by running:
 
-- cd cdat-app
+- cd chat-ap
 - cargo run
 
 Open two tab windows in your web browser.
